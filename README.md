@@ -8,3 +8,6 @@ macOS installation instructions
 5. terminal: python -m pip install django
 6. terminal: django-admin startproject web_project .
 7. verify Django - terminal: python manage.py runserver
+
+Django app creation
+1. terminal: python manage.py startapp hello

@@ -1,0 +1,1 @@
+Django Project with Python 3
